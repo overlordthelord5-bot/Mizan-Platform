@@ -1,0 +1,6 @@
+{
+  "name": "MEEZAN | مِيزان",
+  "description": "منصة مِيزان للاستشارات المحاسبية للأفراد - استشارتك المحاسبية بميزان من الثقة. حجز استشارات، دفع تجريبي، محادثات ومستندات، ودفتر أستاذ مالي مزدوج القيد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
